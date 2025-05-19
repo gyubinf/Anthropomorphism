@@ -1,0 +1,9 @@
+*.gguf
+*.pt
+*.ckpt
+*.bin
+*.parquet
+data/
+models/
+
+bfg-repo-cleaner/
